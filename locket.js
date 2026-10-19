@@ -53,9 +53,9 @@ if (ua.includes("Locket")) {
             title: "Welcome to Locket Gold 45s",
             feature_set: [
                 {
-                    title: "✨✨Locket Gold Made By Alex1508✨✨",
+                    title: "✨✨Locket Gold By Alex1508✨✨",
                     body: "💛💛💛💛💛💛💛💛💛💛",
-                    imageURL: "https://i.ibb.co/4gSptbXp/722a457485211c386a3acf4c13a3e930.jpg"
+                    imageURL: "https://i.ibb.co/TBvF8BQw/8b23ce303c433fbed8c456a2ebc6172b.jpg"
                 
                 }
             ],
