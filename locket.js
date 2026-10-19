@@ -50,12 +50,12 @@ if (ua.includes("Locket")) {
             tag: "LOCKET GOLD",
             tag_gradient: true,
             tag_style: "gold_gradient",
-            title: "chúc mừng bạn ",
+            title: "Welcome to Locket Gold 45s",
             feature_set: [
                 {
-                    title: "✨✨✨✨✨",
+                    title: "✨✨Locket Gold Made By Alex1508✨✨",
                     body: "💛💛💛💛💛💛💛💛💛💛",
-                    imageURL: "https://i.ibb.co/xkJMqKn/photo-2026-10-16-15-31-19.png"
+                    imageURL: "https://i.ibb.co/4gSptbXp/722a457485211c386a3acf4c13a3e930.jpg"
                 
                 }
             ],
